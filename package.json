@@ -2,7 +2,6 @@
   "author": "Keshav Ashiya",
   "name": "react_calculator",
   "version": "1.0.0",
-  "homepage": "https://www.keshavashiya.github.io",
   "dependencies": {
     "gulp": "^4.0.0"
   },
